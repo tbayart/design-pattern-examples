@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{B7FE23DA-87D8-44F7-81FE-A20B5350C36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{DD286676-3E8E-4C62-A478-099127ADD07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BridgePattern\BuilderPattern.csproj", "{F1567E59-18BC-413D-8B4B-0BF07194D26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BuilderPattern\BridgePattern.csproj", "{892E3544-6A00-4203-87E4-D387C7C40D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{4E056AD0-9211-41BA-9BA6-1ECE5AFCADAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{328CD21E-7C11-498D-9A06-0638FD3EB527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{77AE9FE8-CA12-4F5A-8BA9-B08BC955C733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FE23DA-87D8-44F7-81FE-A20B5350C36C}.Debug|x86.ActiveCfg = Debug|x86
+		{B7FE23DA-87D8-44F7-81FE-A20B5350C36C}.Debug|x86.Build.0 = Debug|x86
+		{B7FE23DA-87D8-44F7-81FE-A20B5350C36C}.Release|x86.ActiveCfg = Release|x86
+		{B7FE23DA-87D8-44F7-81FE-A20B5350C36C}.Release|x86.Build.0 = Release|x86
+		{DD286676-3E8E-4C62-A478-099127ADD07E}.Debug|x86.ActiveCfg = Debug|x86
+		{DD286676-3E8E-4C62-A478-099127ADD07E}.Debug|x86.Build.0 = Debug|x86
+		{DD286676-3E8E-4C62-A478-099127ADD07E}.Release|x86.ActiveCfg = Release|x86
+		{DD286676-3E8E-4C62-A478-099127ADD07E}.Release|x86.Build.0 = Release|x86
+		{F1567E59-18BC-413D-8B4B-0BF07194D26E}.Debug|x86.ActiveCfg = Debug|x86
+		{F1567E59-18BC-413D-8B4B-0BF07194D26E}.Debug|x86.Build.0 = Debug|x86
+		{F1567E59-18BC-413D-8B4B-0BF07194D26E}.Release|x86.ActiveCfg = Release|x86
+		{F1567E59-18BC-413D-8B4B-0BF07194D26E}.Release|x86.Build.0 = Release|x86
+		{892E3544-6A00-4203-87E4-D387C7C40D14}.Debug|x86.ActiveCfg = Debug|x86
+		{892E3544-6A00-4203-87E4-D387C7C40D14}.Debug|x86.Build.0 = Debug|x86
+		{892E3544-6A00-4203-87E4-D387C7C40D14}.Release|x86.ActiveCfg = Release|x86
+		{892E3544-6A00-4203-87E4-D387C7C40D14}.Release|x86.Build.0 = Release|x86
+		{4E056AD0-9211-41BA-9BA6-1ECE5AFCADAB}.Debug|x86.ActiveCfg = Debug|x86
+		{4E056AD0-9211-41BA-9BA6-1ECE5AFCADAB}.Debug|x86.Build.0 = Debug|x86
+		{4E056AD0-9211-41BA-9BA6-1ECE5AFCADAB}.Release|x86.ActiveCfg = Release|x86
+		{4E056AD0-9211-41BA-9BA6-1ECE5AFCADAB}.Release|x86.Build.0 = Release|x86
+		{328CD21E-7C11-498D-9A06-0638FD3EB527}.Debug|x86.ActiveCfg = Debug|x86
+		{328CD21E-7C11-498D-9A06-0638FD3EB527}.Debug|x86.Build.0 = Debug|x86
+		{328CD21E-7C11-498D-9A06-0638FD3EB527}.Release|x86.ActiveCfg = Release|x86
+		{328CD21E-7C11-498D-9A06-0638FD3EB527}.Release|x86.Build.0 = Release|x86
+		{77AE9FE8-CA12-4F5A-8BA9-B08BC955C733}.Debug|x86.ActiveCfg = Debug|x86
+		{77AE9FE8-CA12-4F5A-8BA9-B08BC955C733}.Debug|x86.Build.0 = Debug|x86
+		{77AE9FE8-CA12-4F5A-8BA9-B08BC955C733}.Release|x86.ActiveCfg = Release|x86
+		{77AE9FE8-CA12-4F5A-8BA9-B08BC955C733}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

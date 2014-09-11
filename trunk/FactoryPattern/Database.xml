@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table>
+  <member>
+    <member_login_name>admin</member_login_name>
+    <member_password>gPjfVuIBCKILJvIZavpZXg==</member_password>
+  </member>
+  <general>
+    <input_file_path>D:/input</input_file_path>
+    <output_file_path>D:/output</output_file_path>
+  </general>
+  <setting_binary>
+    <pattern_binary_level>1127</pattern_binary_level>
+    <setting_binary_level>128</setting_binary_level>
+  </setting_binary>
+  <setting_stains>
+    <min_length>10</min_length>
+    <max_length>200</max_length>
+    <min_width>10</min_width>
+    <max_width>200</max_width>
+    <min_arena>100</min_arena>
+    <max_arena>10000</max_arena>
+  </setting_stains>
+  <setting_cell>
+    <cell_x>3</cell_x>
+    <cell_y>2</cell_y>
+    <size_x>446</size_x>
+    <size_y>365</size_y>
+    <score>70</score>
+  </setting_cell>
+  <setting_shape>
+    <test_radius>138</test_radius>
+    <min_radius>130</min_radius>
+    <max_radius>145</max_radius>
+  </setting_shape>
+  <setting_region>
+    <setting_region_top_x>10</setting_region_top_x>
+    <setting_region_top_y>10</setting_region_top_y>
+    <setting_region_bottom_x>1350</setting_region_bottom_x>
+    <setting_region_bottom_y>740</setting_region_bottom_y>
+  </setting_region>
+  <setting_folder>
+    <setting_folder_test>C:\Users\User\Desktop\Test3</setting_folder_test>
+    <setting_folder_error>C:\Users\User\Desktop\ERROR2</setting_folder_error>
+  </setting_folder>
+</table>
