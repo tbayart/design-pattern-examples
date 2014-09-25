@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "Singlet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{3CB0600F-73D6-46CC-ABC5-DD5F03CC0FB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{F894D2DC-9086-4B8D-A582-B666F47937EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +57,10 @@ Global
 		{3CB0600F-73D6-46CC-ABC5-DD5F03CC0FB1}.Debug|x86.Build.0 = Debug|x86
 		{3CB0600F-73D6-46CC-ABC5-DD5F03CC0FB1}.Release|x86.ActiveCfg = Release|x86
 		{3CB0600F-73D6-46CC-ABC5-DD5F03CC0FB1}.Release|x86.Build.0 = Release|x86
+		{F894D2DC-9086-4B8D-A582-B666F47937EC}.Debug|x86.ActiveCfg = Debug|x86
+		{F894D2DC-9086-4B8D-A582-B666F47937EC}.Debug|x86.Build.0 = Debug|x86
+		{F894D2DC-9086-4B8D-A582-B666F47937EC}.Release|x86.ActiveCfg = Release|x86
+		{F894D2DC-9086-4B8D-A582-B666F47937EC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
