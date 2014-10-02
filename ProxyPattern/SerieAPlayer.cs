@@ -7,6 +7,9 @@ namespace ProxyPattern
 {
     public class SerieAPlayer : Player
     {
+        /// <summary>
+        /// This method is used in proxy
+        /// </summary>
         public override void Shoot()
         {
             Console.WriteLine("A strike is shotting!");
