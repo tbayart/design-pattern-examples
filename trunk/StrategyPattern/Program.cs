@@ -5,6 +5,10 @@ using System.Text;
 
 namespace StrategyPattern
 {
+    /// <summary>
+    /// The strategy pattern is a design pattern that allows a set of
+    /// similar algorithms to be defined and encapsulated in their own classes
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
